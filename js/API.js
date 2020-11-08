@@ -1,4 +1,4 @@
-const url = 'https://fernandolba.github.io/API-REST/clientes';
+const url = 'https://my-json-server.typicode.com/fernandolba/api-rest/clientes';
 
 // Crea un nuevo cliente, recibe un cliente
 export const nuevoCliente = async cliente => {
