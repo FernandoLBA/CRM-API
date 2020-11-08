@@ -1,4 +1,4 @@
-const url = 'https://fernandolba.github.io/API-REST/db.json';
+const url = 'https://fernandolba.github.io/API-REST/clientes';
 
 // Crea un nuevo cliente, recibe un cliente
 export const nuevoCliente = async cliente => {
