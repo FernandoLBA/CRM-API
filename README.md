@@ -10,5 +10,7 @@ https://fernandolba.github.io/API-REST/index.html
 - HTML5
 - CSS3 
 - JavaScript
-- Json-server
+- Json-server (Este servidor público no permite guardar cambios)
 - Tailwind
+
+* Nota: La pueden probar instalando json-server y desplegándolo desde npm.
