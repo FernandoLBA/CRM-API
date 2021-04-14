@@ -4,7 +4,7 @@ Proyecto de creación y consumo de una API
 ![](./bgApiEditar.png)
 
 * Ver en línea:
-https://fernandolba.github.io/API-REST/index.html
+https://fernandolba.github.io/CRM-API/
 
 # RECURSOS:
 - HTML5
