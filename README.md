@@ -1,5 +1,5 @@
-# API-REST
-Proyecto de creación y consumo de una API REST
+# CRM-API
+Proyecto de creación y consumo de una API
 ![](./bgApi.png)
 ![](./bgApiEditar.png)
 
